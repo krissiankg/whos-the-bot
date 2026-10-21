@@ -1,0 +1,12 @@
+project_id = "whos-the-bot"
+
+[functions.game-lobby]
+verify_jwt = false
+
+[functions.game-bot]
+# Single-use job capability checked in private RPC; never an anonymous AI proxy.
+verify_jwt = false
+
+[functions.game-admin]
+# Server bridge + separately authorized owner session, checked in private SQL.
+verify_jwt = false

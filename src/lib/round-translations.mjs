@@ -1,0 +1,18 @@
+export const roundPhrases=[
+  ["Your card is ready to save.","Ta carte est prête à être enregistrée."],["Your result card","Ta carte de résultat"],["Save image","Enregistrer l’image"],
+  ["The preview round ended without revealing identities or awarding points.","La manche d’aperçu est terminée sans révéler les identités ni attribuer de points."],
+  ["This game is finished. Create a new room to play again.","Cette partie est terminée. Crée un nouveau salon pour rejouer."],
+  ["Final leaderboard","Classement final"],["Practice · no points","Entraînement · sans points"],
+  ["Three rounds. One secret AI.","Trois manches. Une IA cachée."],["Bots found: {0}/3","IA démasquées : {0}/3"],
+  ["Result card downloaded.","Carte de résultat téléchargée."],["Could not export the card. Try again.","Impossible d’exporter la carte. Réessaie."],
+  ["THREE ROUNDS LATER","TROIS MANCHES PLUS TARD"],["Good instincts. Questionable friends.","Un bon instinct. Des amis suspects."],
+  ["Scripted developer results. No real AI was called.","Résultats développeur simulés. Aucun appel à une véritable IA."],
+  ["Practice","Entraînement"],["points","points"],["Share my result","Partager mon résultat"],["Download PNG","Télécharger le PNG"],
+  ["Play again","Rejouer"],["The card contains only anonymous names and results. No chat messages or room code.","La carte contient seulement les pseudos anonymes et les résultats. Aucun message ni code de salon."],
+  ["Round {0} of 3","Manche {0} sur 3"],["Next round","Manche suivante"],["The AI fooled the majority.","L’IA a trompé la majorité."],
+  ["The humans held their ground.","Les humains ont tenu bon."],["Points this round","Points de cette manche"],
+  ["Your score: {0}","Ton score : {0}"],["Waiting for the host to continue.","En attente de l’hôte pour continuer."],
+  ["Finish the third reveal to see the final leaderboard.","Le classement final sera révélé après la troisième manche."],
+  ["Three rounds. One hidden AI. Find it, vote, then compare your scores.","Trois manches. Une IA cachée. Démasquez-la, votez, puis comparez vos scores."],
+  ["Correct vote: +1. If most humans accuse humans, the most accused lose 1. Ties share the penalty.","Bon vote : +1. Si la majorité accuse des humains, les plus accusés perdent 1 point, même en cas d’égalité."],
+];

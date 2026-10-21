@@ -1,0 +1,23 @@
+node_modules/
+.next/
+.next-validation/
+.next-preview/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+.DS_Store
+playwright-report/
+test-results/
+.admin-install.local
+
+# Prepared GitHub snapshots are independent exports, not app source.
+/github-export/
+.dev.vars*
+.sites-runtime/
+.wrangler/
+.vinext/
+outputs/
+*.pem
+*.key
